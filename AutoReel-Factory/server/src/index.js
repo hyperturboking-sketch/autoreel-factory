@@ -1,3 +1,6 @@
+import ffmpegPath from "ffmpeg-static";
+process.env.FFMPEG_PATH = ffmpegPath;
+
 import cors from "cors";
 import dotenv from "dotenv";
 import express from "express";
