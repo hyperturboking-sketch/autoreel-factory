@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import ProgressSteps from "./components/ProgressSteps";
 import ResultCard from "./components/ResultCard";
 
-const API_BASE = "https://autoreelfactory.onrender.com";
+const API_BASE = "https://autoreel-factory.onrender.com";
 
 const STATES = {
   HOME: "home",
